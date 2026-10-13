@@ -1,0 +1,2 @@
+# disaster_sns_multi_agent_history
+SNS返信を活用したLLMによる噂の真偽分類の研究記録。v001–v007のコード、プロンプト、評価結果と論文との対応を保存。
